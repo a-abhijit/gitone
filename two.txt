@@ -1,2 +1,6 @@
 two
+<<<<<<< HEAD
 sdfsf
+=======
+main changed test
+>>>>>>> main
